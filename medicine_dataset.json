@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Panadol",
+    "activeIngredient": "Paracetamol",
+    "concentration": "500mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "GSK",
+    "price": 15.00,
+    "sideEffects": "Nausea, vomiting, liver damage"
+  },
+  {
+    "name": "Tylenol",
+    "activeIngredient": "Paracetamol",
+    "concentration": "500mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Johnson & Johnson",
+    "price": 16.00,
+    "sideEffects": "Nausea, rash, liver damage"
+  },
+  {
+    "name": "Advil",
+    "activeIngredient": "Ibuprofen",
+    "concentration": "200mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Pfizer",
+    "price": 18.00,
+    "sideEffects": "Stomach pain, nausea, dizziness"
+  },
+  {
+    "name": "Motrin",
+    "activeIngredient": "Ibuprofen",
+    "concentration": "400mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Johnson & Johnson",
+    "price": 20.00,
+    "sideEffects": "Stomach pain, headache, rash"
+  },
+  {
+    "name": "Aspirin",
+    "activeIngredient": "Acetylsalicylic Acid",
+    "concentration": "300mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Bayer",
+    "price": 12.00,
+    "sideEffects": "Stomach upset, bleeding, allergic reactions"
+  },
+  {
+    "name": "Cataflam",
+    "activeIngredient": "Diclofenac Potassium",
+    "concentration": "50mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Novartis",
+    "price": 22.00,
+    "sideEffects": "Nausea, diarrhea, headache"
+  },
+  {
+    "name": "Voltaren",
+    "activeIngredient": "Diclofenac Sodium",
+    "concentration": "50mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Novartis",
+    "price": 23.00,
+    "sideEffects": "Nausea, abdominal pain, rash"
+  },
+  {
+    "name": "Brufen",
+    "activeIngredient": "Ibuprofen",
+    "concentration": "400mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Abbott",
+    "price": 19.00,
+    "sideEffects": "Nausea, vomiting, dizziness"
+  },
+  {
+    "name": "Augmentin",
+    "activeIngredient": "Amoxicillin/Clavulanic Acid",
+    "concentration": "625mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "GSK",
+    "price": 45.00,
+    "sideEffects": "Diarrhea, nausea, skin rash"
+  },
+  {
+    "name": "Amoxil",
+    "activeIngredient": "Amoxicillin",
+    "concentration": "500mg",
+    "dosageForm": "Capsule",
+    "manufacturer": "GSK",
+    "price": 30.00,
+    "sideEffects": "Nausea, diarrhea, allergic reactions"
+  },
+  {
+    "name": "Zithromax",
+    "activeIngredient": "Azithromycin",
+    "concentration": "500mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Pfizer",
+    "price": 60.00,
+    "sideEffects": "Diarrhea, nausea, abdominal pain"
+  },
+  {
+    "name": "Flagyl",
+    "activeIngredient": "Metronidazole",
+    "concentration": "500mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Sanofi",
+    "price": 10.00,
+    "sideEffects": "Nausea, metallic taste, headache"
+  },
+  {
+    "name": "Keflex",
+    "activeIngredient": "Cephalexin",
+    "concentration": "500mg",
+    "dosageForm": "Capsule",
+    "manufacturer": "Lupin",
+    "price": 25.00,
+    "sideEffects": "Diarrhea, nausea, rash"
+  },
+  {
+    "name": "Cipro",
+    "activeIngredient": "Ciprofloxacin",
+    "concentration": "500mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Bayer",
+    "price": 35.00,
+    "sideEffects": "Nausea, diarrhea, dizziness"
+  },
+  {
+    "name": "Augmentin ES",
+    "activeIngredient": "Amoxicillin/Clavulanic Acid",
+    "concentration": "600mg",
+    "dosageForm": "Suspension",
+    "manufacturer": "GSK",
+    "price": 50.00,
+    "sideEffects": "Diarrhea, nausea, skin rash"
+  },
+  {
+    "name": "Claritin",
+    "activeIngredient": "Loratadine",
+    "concentration": "10mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Bayer",
+    "price": 14.00,
+    "sideEffects": "Headache, drowsiness, dry mouth"
+  },
+  {
+    "name": "Zyrtec",
+    "activeIngredient": "Cetirizine",
+    "concentration": "10mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "UCB",
+    "price": 13.00,
+    "sideEffects": "Drowsiness, dry mouth, fatigue"
+  },
+  {
+    "name": "Singulair",
+    "activeIngredient": "Montelukast",
+    "concentration": "10mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Merck",
+    "price": 28.00,
+    "sideEffects": "Headache, abdominal pain, cough"
+  },
+  {
+    "name": "Ventolin",
+    "activeIngredient": "Salbutamol",
+    "concentration": "100mcg",
+    "dosageForm": "Inhaler",
+    "manufacturer": "GSK",
+    "price": 40.00,
+    "sideEffects": "Tremor, headache, palpitations"
+  },
+  {
+    "name": "Glucophage",
+    "activeIngredient": "Metformin",
+    "concentration": "500mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Merck",
+    "price": 17.00,
+    "sideEffects": "Nausea, diarrhea, abdominal pain"
+  }
+]
